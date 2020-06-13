@@ -1,15 +1,7 @@
-<div align="center">
-
-  [![npm package @latest](https://img.shields.io/npm/v/node-audiorecorder.svg?label=npm@latest&style=flat-square&maxAge=3600)](https://npmjs.com/package/node-audiorecorder)
-  [![Travis-ci status](https://img.shields.io/travis-ci/com/RedKenrok/node-audiorecorder.svg?label=test%20status&branch=master&style=flat-square&maxAge=3600)](https://travis-ci.com/RedKenrok/node-audiorecorder)
-
-  [![License agreement](https://img.shields.io/github/license/redkenrok/node-audiorecorder.svg?style=flat-square&maxAge=86400)](https://github.com/redkenrok/node-audiorecorder/blob/master/LICENSE)
-  [![Open issues on GitHub](https://img.shields.io/github/issues/redkenrok/node-audiorecorder.svg?style=flat-square&maxAge=86400)](https://github.com/redkenrok/node-audiorecorder/issues)
-
-</div>
+Fork of node-audiorecorder. Editing to have more customizations for Sox implementation. 
 
 # Audio recorder
-Audio recorder for [Node.js](https://nodejs.org/), delivers a 16-bit signed-integer linear pulse modulation WAV stream. Based of [Gilles De Mey](https://github.com/gillesdemey)'s [node-record-lpcm16](https://github.com/gillesdemey/node-record-lpcm16).
+Fork of Audio recorder for [Node.js](https://nodejs.org/), delivers a 16-bit signed-integer linear pulse modulation WAV stream. Based of [Gilles De Mey](https://github.com/gillesdemey)'s [node-record-lpcm16](https://github.com/gillesdemey/node-record-lpcm16).
 
 ## Installation
 ```
